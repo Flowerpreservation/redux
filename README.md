@@ -2,10 +2,14 @@
 a just redux
 
 一.React-redux 基本使用
+
+
     包括 store state action reducers 以及扩展的插件
     
     
 二.redux介绍
+
+
   state 可能包括服务器响应、缓存数据、本地生成尚未持久化到服务器的数据，也包括 UI 状态，如激活的路由，被选中的标签，是否显示加载动效或者分页器等
   
   
